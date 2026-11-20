@@ -1,7 +1,13 @@
 # Boligbroen
 ## Forslag til et dokumenteret pilotforsøg mod hjemløshed
 
-**Arbejdspapir til kommuner og Folketinget · 16. november 2026**
+**Arbejdspapir til kommuner og Folketinget · 20. november 2026**
+
+### Aktuel indgang og første beslutning
+
+L 84 (2026–27) om videreførelse af huslejetilskud var ved opslag den 20. november 2026 1. behandlet og henvist til Socialudvalget. Det giver en konkret anledning til at afklare adgang for personer uden bolig, længerevarende betalingsgab og evaluering. Der er tale om et lovforslag, ikke en vedtaget ordning. [7]
+
+Første anmodning er et afklaringsmøde og en kommunal forundersøgelse med brugerrepræsentanter og boligorganisationer. Pilotforsøget nedenfor er betinget af resultaterne. Se [præsentationspakken](praesentationspakke.md) for korte oplæg, verificerede modtagere og henvendelser.
 
 ### Den politiske beslutning
 
@@ -11,7 +17,7 @@ Vi beder om tre ting: (1) en kommunal partner og repræsentanter med egne erfari
 
 ### Problemet som skal løses
 
-VIVE registrerede 6.028 mennesker i hjemløshed i uge 6 i 2026, næsten uændret fra 2024. Tallet er en usikker ugeopgørelse; VIVE anslår 12.000–15.000 mennesker i løbet af et år. I den korrigerede analyse af betalingsevne anslås 37 pct. at have behov for en husleje under 3.500 kr. om måneden. Omkring 4.200 almene familieboliger i den prisklasse bliver ledige årligt, men de er ikke forbeholdt denne gruppe. Det er ikke et direkte beregnet boligunderskud: tallene måler forskellige ting, og lokale markeder er forskellige. [1][2]
+VIVE registrerede 6.028 mennesker i hjemløshed i uge 6 i 2026, næsten uændret fra 2024. Tallet er en usikker ugeopgørelse; VIVE anslår 12.000–15.000 mennesker i løbet af et år. I den korrigerede analyse har 37 pct. behov for en husleje under 3.500 kr. om måneden i scenariet med 4.000 kr. til øvrige leveomkostninger. Beløbet er en modelantagelse, ikke et anbefalet rådighedsbeløb. Omkring 4.200 almene familieboliger i den prisklasse blev genudlejet i 2024, men de er ikke forbeholdt denne gruppe. Det er ikke et direkte beregnet boligunderskud: tallene måler forskellige ting, og lokale markeder er forskellige. [1][2]
 
 Københavns Kommune oplyser, at den årligt indstiller ca. 1.000–1.500 borgere med akut boligsocialt behov og anviser ca. 650–950. De to tal kan ikke uden videre trækkes fra hinanden som en årlig venteliste: perioder, ind- og udgange og definitioner kan variere. Kommunen beskriver også, at nogle borgere blev fjernet fra boliglisten efter ydelsesnedgang, fordi de ikke blev vurderet til at have nødvendig betalingsevne. Det er et konkret forhold, der bør undersøges nærmere. [3]
 
@@ -23,7 +29,7 @@ Københavns Kommune beskriver et statsligt midlertidigt tilskud med rammer for b
 
 **Arbejdshypotese:** Et varigt eller længerevarende betalingsgab kan forhindre adgang til en egnet bolig, selv når der findes midlertidige tilskud og social støtte. Vi ved endnu ikke, hvor mange mennesker dette gælder, eller hvilken ændring af loven der er nødvendig. Det kræver data og juridisk vurdering.
 
-En kommunes refusion for et § 110-herbergsophold er begrænset til 90 dage pr. løbende år fra 1. april 2026. Det er ikke en 90-dages grænse for borgerens ret til ophold. Pilotforsøget må ikke bruges til at lukke pladser eller fremskynde udskrivning, før et passende alternativ faktisk er tilgængeligt. [5]
+Den læste lovbekendtgørelse nr. 641 af 1. juli 2026, § 177, nr. 3, angiver 50 pct. refusion for ophold i 90 dage pr. løbende år fra første indskrivning. Et høringsudkast fra 2025 om 120 dage kan ikke i sig selv behandles som gældende lov; ikrafttrådte ændringer skal kontrolleres ved en konkret bevillingsbeslutning. Det er ikke en 90-dages grænse for borgerens ret til ophold. Pilotforsøget må ikke bruges til at lukke pladser eller fremskynde udskrivning, før et passende alternativ faktisk er tilgængeligt. [5]
 
 ### Sådan fungerer forsøget
 
@@ -105,6 +111,8 @@ Med venlig hilsen
 
 [4] Københavns Kommune, mødeforberedelse om huslejetilskud og udslusningsboliger: https://www.kk.dk/sites/default/files/agenda/b9d78914-1911-487a-8432-8c78769a9757/4a7d1665-a1a7-43fc-9a5d-92678958f9c2-bilag-15.pdf
 
-[5] Social- og Boligstyrelsen, Nationale retningslinjer for indsatsen mod hjemløshed, s. 77–78: https://admin.sbst.dk/Media/638862671422612702/NR_Hjemlshed_ver2_SBST_2025.pdf
+[5] Serviceloven, LBK nr. 641 af 1. juli 2026, §§ 176 a og 177: https://www.retsinformation.dk/eli/lta/2026/641/pdf
 
 [6] Folketinget, udvalgsarbejde og foretræde: https://www.ft.dk/folkestyret/folketinget/udvalgsarbejdet
+
+[7] Folketinget, L 84, 2026–27, status og tekst læst 20.11.2026: https://www.ft.dk/samling/20261/lovforslag/l84/index.htm

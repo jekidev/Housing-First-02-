@@ -2,9 +2,15 @@
 
 Et dansk, evidensbaseret projekt, der undersøger en praktisk vej ud af hjemløshed for mennesker, som ikke kan betale en egnet bolig.
 
-**Status:** Idé- og undersøgelsesfase, 16. november 2026. Ingen kommune, organisation eller politiker har tilsluttet sig projektet. Forsøget er ikke finansieret.
+**Status:** Idé- og undersøgelsesfase, 20. november 2026. Ingen kommune, organisation eller politiker har tilsluttet sig projektet. Forsøget er ikke finansieret.
+
+## Aktuelt
+
+[L 84 (2026–27)](https://www.ft.dk/samling/20261/lovforslag/l84/index.htm) om videreførelse af huslejetilskud er ved opslag 20.11.2026 1. behandlet/henvist til Socialudvalget. Det er den konkrete politiske indgang for spørgsmål om adgang for mennesker uden bolig, vedvarende betalingsgab og evaluering. Der er ikke dokumenteret vedtagelse eller en frist for indspil.
 
 ## Læs først
+
+0. **[Præsentationspakke](docs/praesentationspakke.md)** — kort beslutningsoplæg, kontaktveje, L 84-spørgsmål, henvendelseskladder og mundtlig pitch.
 
 1. [Politisk forslag og budget](docs/politisk-forslag.md) — problem, forsøg, økonomi og evaluering.
 2. [Forskningsnotat og åbne spørgsmål](research/forskningsnotat.md) — hvad vi ved, hvad vi ikke ved, og hvilke kilder der kræver opfølgning.

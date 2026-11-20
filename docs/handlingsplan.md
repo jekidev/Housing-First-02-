@@ -1,6 +1,10 @@
 # Handlingsplan: fra hypotese til politisk beslutning
 
-Status 16. november 2026. Ingen henvendelser er sendt, og ingen tilsagn er modtaget.
+Status 20. november 2026. Ingen henvendelser er sendt, og ingen tilsagn er modtaget.
+
+## Aktuel prioritering
+
+Se [præsentationspakken](praesentationspakke.md) for modtagere og færdige kladder. Start med SAND og lokal afklaring, men afklar sideløbende fristen for indspil til **L 84 (2026–27)** i Folketingets Socialudvalg. Lovsagen var 1. behandlet/henvist til udvalg ved opslag 20.11.2026. Ingen konkret frist er verificeret. Kommunalt foretræde kræver derimod en konkret dagsordenssag; bed om vejledning først.
 
 ## 1. Få afklaret problemet
 
@@ -42,6 +46,8 @@ Spørg især: Hvad hindrer en bolig? Hvor har eksisterende hjælp virket eller s
 Bed kommune og relevante myndigheder om skriftlig vurdering af eksisterende tilskud, mulighed for langvarig støtte, ydelsessamspil, anvisning, lejerettigheder, klageadgang og finansiering efter forsøg. Budgettet er et arbejdsestimat, ikke en bevilling.
 
 ## 4. Anmod om foretræde i Folketinget
+
+Brug som udgangspunkt den opdaterede, L 84-specifikke kladde i præsentationspakken. Nedenstående generelle kladde er et alternativ, hvis lovsagen ikke længere er åben.
 
 [Socialudvalgets officielle side](https://www.ft.dk/da/udvalg/udvalgene/sou) har en kontaktformular. [Folketinget forklarer](https://www.ft.dk/da/ofte-stillede-spoergsmaal/udv_hvordan-kommer-jeg-i-kontakt-med-et-udvalg), at udvalget beslutter, hvem der får foretræde, normalt op til 15 minutter.
 
